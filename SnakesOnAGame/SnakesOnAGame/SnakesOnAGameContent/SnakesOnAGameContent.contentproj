@@ -42,15 +42,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SQUARE.bmp">
-      <Name>SQUARE</Name>
+    <Compile Include="snake11.png">
+      <Name>snake11</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Food.bmp">
-      <Name>Food</Name>
+    <Compile Include="pellet101.png">
+      <Name>pellet101</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
